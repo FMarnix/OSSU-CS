@@ -305,14 +305,14 @@ Courses | Duration | Effort | Prerequisites | Cert/Rep
 `game trees`
 `and more`
 
-Courses | Duration | Effort | Prerequisites |
+Courses | Duration | Effort | Prerequisites | Cert/Rep
 :-- | :--: | :--: | :--: | :--:
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN)) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms |
 [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++ |
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus |
 
 ### Advanced math
-Courses | Duration | Effort | Prerequisites | Discussion |
+Courses | Duration | Effort | Prerequisites | Discussion | Cert/Rep
 :-- | :--: | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6) |
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH) |
