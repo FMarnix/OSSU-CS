@@ -373,7 +373,7 @@ Courses | Duration | Effort | Cert/Rep
 [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)| 7 weeks | 4-6 hours/week
 [The Structure and Interpretation of Computer Programs](http://cs61a.org/) | - | -
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | 14 weeks | 4 hours/week
-[Web Applications for Everybody](https://www.wa4e.com/) | 24 weeks | 5 ours/week
+[Web Applications for Everybody](https://www.wa4e.com/) | 24 weeks | 5 hours/week
 [Django for Everybody](https://www.dj4e.com/) | 20 weeks | 3 hours/week
 [PostgreSQL for Everybody](https://www.pg4e.com/) | 16 weeks | 4 hours/week
 
