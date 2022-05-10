@@ -418,6 +418,8 @@ Courses | Duration | Effort | Cert/Rep
 [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics/) | - | -
 [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1/) | - | -
 [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/) | - | -
+[Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 3.5 hours/week
+[Cryptography II](https://www.coursera.org/learn/crypto2) | 2 weeks | 1 hours/week
 
 ## Applications
 
