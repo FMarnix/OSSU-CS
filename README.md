@@ -373,6 +373,9 @@ Courses | Duration | Effort | Cert/Rep
 [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)| 7 weeks | 4-6 hours/week
 [The Structure and Interpretation of Computer Programs](http://cs61a.org/) | - | -
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | 14 weeks | 4 hours/week
+[Web Applications for Everybody](https://www.wa4e.com/) | 24 weeks | 5 ours/week
+[Django for Everybody](https://www.dj4e.com/) | 20 weeks | 3 hours/week
+[PostgreSQL for Everybody](https://www.pg4e.com/) | 16 weeks | 4 hours/week
 
 ## Math
 
@@ -420,6 +423,8 @@ Courses | Duration | Effort | Cert/Rep
 [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/) | - | -
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 3.5 hours/week
 [Cryptography II](https://www.coursera.org/learn/crypto2) | 2 weeks | 1 hours/week
+[Introduction to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography) | 16 weeks | 3 hours/week
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency?) | 11 weeks | 2 hours/week
 
 ## Applications
 
