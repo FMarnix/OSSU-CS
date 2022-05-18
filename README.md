@@ -136,7 +136,7 @@ Understanding theory is important, but you will also be expected to create progr
 
 Courses | Duration | Effort | Prerequisites | Discussion | Cert/Rep 
 :-- | :--: | :--: | :--: | :--: | :--:
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | [Cert]  (https://github.com/FMarnix/MissingSemCS)
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [chat](https://discord.gg/5FvKycS) | [Rep](https://github.com/FMarnix/MissingSemCS)
 
 ### Core systems
 
