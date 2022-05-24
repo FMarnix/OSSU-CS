@@ -376,6 +376,8 @@ Courses | Duration | Effort | Cert/Rep
 [Web Applications for Everybody](https://www.wa4e.com/) | 24 weeks | 5 hours/week
 [Django for Everybody](https://www.dj4e.com/) | 20 weeks | 3 hours/week
 [PostgreSQL for Everybody](https://www.pg4e.com/) | 16 weeks | 4 hours/week
+[Coding for Everyone:C and C++](https://www.coursera.org/specializations/coding-for-everyone?) | 24 weeks | 2 hours/week
+
 
 ## Math
 
