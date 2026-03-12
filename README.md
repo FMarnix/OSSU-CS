@@ -20,20 +20,20 @@ In the curriculum section i'll be adding the certification of completion or the 
   - [Intro CS](#intro-cs)
     - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
-    - [Core programming](#core-programming)
+    - [Core Programming](#core-programming)
     - [Core Math](#core-math)
     - [CS Tools](#cs-tools)
-    - [Core systems](#core-systems)
-    - [Core theory](#core-theory)
+    - [Core Systems](#core-systems)
+    - [Core Theory](#core-theory)
     - [Core Security](#core-security)
-    - [Core applications](#core-applications)
-    - [Core ethics](#core-ethics)
+    - [Core Applications](#core-applications)
+    - [Core Ethics](#core-ethics)
   - [Advanced CS](#advanced-cs)
-    - [Advanced programming](#advanced-programming)
-    - [Advanced systems](#advanced-systems)
-    - [Advanced theory](#advanced-theory)
+    - [Advanced Programming](#advanced-programming)
+    - [Advanced Systems](#advanced-systems)
+    - [Advanced Theory](#advanced-theory)
     - [Advanced Information Security](#advanced-information-security)
-    - [Advanced math](#advanced-math)
+    - [Advanced Math](#advanced-math)
   - [Final project](#final-project)
   - [Extras](#extras)
 - [Computer Science - Great Courses](#computer-science---great-courses)
@@ -74,7 +74,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
-### Core programming
+### Core Programming
 
 **Topics covered**:
 `functional programming`
@@ -134,7 +134,7 @@ Understanding theory is important, but you will also be expected to create progr
 | :----------------------------------------------------------------------- | :------: | :-----------: | :-----------: | :-----------------------------: | :-----------------------------------------: |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week |       -       | [chat](https://discord.gg/5FvKycS) | [Rep](https://github.com/FMarnix/MissingSemCS) |
 
-### Core systems
+### Core Systems
 
 **Topics covered**:
 `procedural programming`
@@ -159,7 +159,7 @@ Understanding theory is important, but you will also be expected to create progr
 | [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md)                                                                                     | 10-12 weeks | 6-10 hours/week |                                 -                                 |                                                                      Nand to Tetris Part II                                                                      | [chat](https://discord.gg/wZNgpep) |          |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)                                                    |   8 weeks   | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.htm) |                                                                  algebra, probability, basic CS                                                                  | [chat](https://discord.gg/MJ9YXyV) |          |
 
-### Core theory
+### Core Theory
 
 **Topics covered**:
 `divide and conquer`
@@ -176,10 +176,9 @@ Understanding theory is important, but you will also be expected to create progr
 
 | Courses                                                                                                                       | Duration |     Effort     |                            Prerequisites                            |           Discussion           | Cert/Rep |
 | :---------------------------------------------------------------------------------------------------------------------------- | :------: | :------------: | :------------------------------------------------------------------: | :-----------------------------: | :------: |
-| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week |      any programming language, Mathematics for Computer Science      | [chat](https://discord.gg/mKRS7tY) |          |
-| [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)            | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t) |          |
-| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)           | 4 weeks | 4-8 hours/week |          Graph Search, Shortest Paths, and Data Structures          | [chat](https://discord.gg/dWVvjuz) |          |
-| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week |  Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming  | [chat](https://discord.gg/dYuY78u) |          |
+| [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) |  |
+| [Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) |  |
+
 
 ### Core Security
 
@@ -205,7 +204,7 @@ Choose **one** of the following:
 | [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)        | 4 weeks | 5 hours/week |       -       | [chat](https://discord.gg/Vbxce7A) |          |
 | [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week |       -       | [chat](https://discord.gg/QxC22rR) |          |
 
-### Core applications
+### Core Applications
 
 **Topics covered**:
 `Agile methodology`
@@ -231,7 +230,7 @@ Choose **one** of the following:
 | [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)                           | 6 weeks |  12 hours/week  |                                                     C++ or Java, linear algebra                                                     | [chat](https://discord.gg/68WqMNV) |          |
 | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Core Programming, and a[sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz) |          |
 
-### Core ethics
+### Core Ethics
 
 **Topics covered**:
 `Social Context`
@@ -253,7 +252,7 @@ After completing **every required course** in Core CS, students should choose a 
 Not every course from a subcategory needs to be taken.
 But students should take *every* course that is relevant to the field they intend to go into.
 
-### Advanced programming
+### Advanced Programming
 
 **Topics covered**:
 `debugging theory and practice`
@@ -275,7 +274,7 @@ But students should take *every* course that is relevant to the field they inten
 
 (*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](http://creativecommons.org/licenses/by-sa/4.0/))
 
-### Advanced systems
+### Advanced Systems
 
 **Topics covered**:
 `digital signaling`
@@ -299,7 +298,7 @@ Courses | Duration | Effort | Prerequisites | Notes | Cert/Rep
 [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)[alternative](https://computationstructures.org/lectures/info/info.html) | 10 weeks | 6 hours/week | Computation Structures 1 |
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)[alternative](https://computationstructures.org/lectures/info/info.html) | 10 weeks | 6 hours/week | Computation Structures 2 |
 
-### Advanced theory
+### Advanced Theory
 
 **Topics covered**:
 `formal languages`
@@ -334,7 +333,7 @@ Courses | Duration | Effort | Prerequisites | Cert/Rep
 [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
-### Advanced math
+### Advanced Math
 
 | Courses                                                                                                                                   | Duration |     Effort     |                                      Prerequisites                                      |           Discussion           | Cert/Rep |
 | :---------------------------------------------------------------------------------------------------------------------------------------- | :------: | :------------: | :--------------------------------------------------------------------------------------: | :-----------------------------: | :------: |
